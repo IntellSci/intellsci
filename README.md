@@ -2,9 +2,7 @@
 
 All about the Website
 
-## *SERVICES* 
 
-## *SELF-INTELLIGENCE PROGRAMS* 
 
 
 <!--
