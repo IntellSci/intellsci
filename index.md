@@ -9,8 +9,8 @@ output:
   #slidy_presentation:
  # ioslides_presentation:
    # theme: darkly
-    toc: true
-    toc_float: true 
+ #   toc: true
+  #  toc_float: true 
     
 ---
 
@@ -18,7 +18,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-All about the Website
+All about the Websiteee
 
 
 ## *SERVICES* 
