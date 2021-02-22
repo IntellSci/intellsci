@@ -8,9 +8,9 @@ output:
   html_document:
   #slidy_presentation:
  # ioslides_presentation:
-    theme: darkly
-    toc: true
-    toc_float: true 
+  #  theme: darkly
+  #  toc: true
+  #  toc_float: true 
     
 ---
 
