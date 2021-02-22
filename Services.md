@@ -19,8 +19,6 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## {.tabset .tabset-pills}
-
 ### TARGETED THOUGHT-ENERGY THERAPY (TTT) 
 
     - Mind and Thought Cleansing
@@ -47,7 +45,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ###	PROBLEM SOLVING RESEARCH {.tabset .tabset-pills}
-#### ->
+
 ####	Social Data Research
-#### Analytical Research 
+####  Analytical Research 
   
