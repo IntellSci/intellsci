@@ -14,7 +14,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###	{.tabset .tabset-fade .tabset-pills}
 
-#### ->
 
 #### "BEYOND SCHOOL" 
 
@@ -79,7 +78,7 @@ knitr::opts_chunk$set(echo = TRUE)
   
   - Break your barriers of abuse
 
-#### SKILL INTELLIGENCE {.tabset}
+#### SKILL INTELLIGENCE
 
 ##### Daily Data Science Boot Camp
 
