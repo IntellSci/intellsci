@@ -1,12 +1,2 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - index.md
-  - README.md
-  - Services.md
-  - Self-intelligence-Program.md
 
 theme: jekyll-theme-leap-day
