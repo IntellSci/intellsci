@@ -8,3 +8,5 @@ include:
   - README.md
   - Services.md
   - Self-intelligence-Program.md
+
+theme: jekyll-theme-leap-day
