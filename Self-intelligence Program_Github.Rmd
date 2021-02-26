@@ -112,9 +112,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###	SCIENTIFIC INTELLIGENCE {.tabset .tabset-pills .tabset-dropdown .tabset-fade}
   
-#### [Artificial Intelligence for All - AIFA]
+#### Artificial Intelligence for All - AIFA
 
-#### [Artificial Intelligence for Mathematicians]
+#### Artificial Intelligence for Mathematicians
     
 ####  Mathematics for Social Sciences
   
