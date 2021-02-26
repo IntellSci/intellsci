@@ -14,25 +14,26 @@ knitr::opts_chunk$set(echo = TRUE)
 
   - Skill Intelligence
   - Divine Intelligence
-  -	Scientific Intelligence
-  
+  - Scientific Intelligence
+
   - Social Life Skills
-  -	Self-Grooming Skills    
-  
-  -	Aspiration (Role/Goal based) Videos 
-  - Motivation (Intention based) Videos 
-  - Educative and Informative Videos
-  
+  - Self-Grooming Skills
+  - Mind and Thought Cleansing
+
   - Goal Designing
-  - Career Mapping
+  - Career Framing
   - Purpose Definition
   - Capability Enhancement
-  - Assessments: 
-      - Intelligence, Learning Style, Personality, Need Analysis 
-  - Routine Checks: 
-      - Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
+  - Assessments: Intelligence, Learning Style, Personality, Need Analysis
+  - Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
+  - Aspiration (Role/Goal based) Videos
+  - Motivation (Intention based) Videos
+  - Educative and Informative Videos
+
+  
+  
 ### "BEING YOU" 
 
     - Content based on Ancient Scriptures on Philosophy of Life
