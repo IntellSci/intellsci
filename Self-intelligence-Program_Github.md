@@ -112,9 +112,9 @@
 
 ### SCIENTIFIC INTELLIGENCE
 
-#### \[Artificial Intelligence for All - AIFA\]
+#### Artificial Intelligence for All - AIFA
 
-#### \[Artificial Intelligence for Mathematicians\]
+#### Artificial Intelligence for Mathematicians
 
 #### Mathematics for Social Sciences
 
