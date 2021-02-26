@@ -6,12 +6,8 @@ title: " "
 
 output:
   github_document:
-  #slidy_presentation:
- # ioslides_presentation:
-  #  theme: darkly
-    toc: true
- #    toc_float: true 
-    
+  toc: true
+ #    toc_float: true  
 ---
 
 ```{r setup, include=FALSE}
@@ -20,22 +16,21 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # All about the Website
 
-**[SERVICES](#services) for SOCIAL AND COMMERCIAL PURPOSES**
-- **[TARGETED THOUGHT-ENERGY THERAPY](#TTT)**
+## SERVICES
+### PROCESS AND QUALITY IMPROVEMENT - for SOCIAL AND COMMERCIAL PURPOSES
+### TARGETED THOUGHT-ENERGY THERAPY (TTT)
 
 
-**PROGRAMS ON [SELF-INTELLIGENCE](#selfintelligence)**
+## PROGRAMS ON SELF-INTELLIGENCE
 
-+ **[BEING YOU](#beingyou)**
+### BEING YOU
 
-+ [BEYOND SCHOOL](#beyondschool)
+### BEYOND SCHOOL
 
-+ [SKILL INTELLIGENCE](#skillintelligence)
-   # - [Daily Data Science Bootcamp](#DDS)
-   # - [Internship Projects](#internship)
-    - Daily Data Science Bootcamp
-    - Internship Projects
-
+### SKILL INTELLIGENCE
+   #### Daily Data Science Bootcamp
+   #### Internship Projects
+    
 + [SCIENTIFIC INTELLIGENCE](#scientificintelligence)
 
   + Artificial Intelligence for All - AIFA
