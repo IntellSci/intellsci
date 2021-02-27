@@ -1,52 +1,55 @@
+# SELF-INTELLIGENCE PROGRAMS
 
-### “BEYOND SCHOOL”
 
--   Skill Intelligence
+### BEYOND SCHOOL
 
--   Divine Intelligence
+    -   Skill Intelligence
 
--   Scientific Intelligence
+    -   Divine Intelligence
 
--   Social Life Skills
+    -   Scientific Intelligence
 
--   Self-Grooming Skills
+    -   Social Life Skills
 
--   Aspiration (Role/Goal based) Videos
+    -   Self-Grooming Skills
 
--   Motivation (Intention based) Videos
+    -   Aspiration (Role/Goal based) Videos
 
--   Educative and Informative Videos
+    -   Motivation (Intention based) Videos
 
--   Goal Designing
+    -   Educative and Informative Videos
 
--   Career Mapping
+    -   Goal Designing
 
--   Purpose Definition
+    -   Career Mapping
 
--   Capability Enhancement
+    -   Purpose Definition
 
--   Assessments:
+    -   Capability Enhancement
 
-    -   Intelligence, Learning Style, Personality, Need Analysis
+    -   Assessments:
+           Intelligence, Learning Style, Personality, Need Analysis
 
--   Routine Checks:
-
-    -   Sleep, Diet, Physical Activity, Emotional Energy, Moral
-        Behaviour
+    -   Routine Checks:
+           Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
 ### “BEING YOU”
 
-    - Content based on Ancient Scriptures on Philosophy of Life
+  - Content based on Ancient Scriptures on Philosophy of Life
 
+    AGENDA
+    
     - TARGETED THOUGHT-ENERGY THERAPY
 
     - Self-assess, Self-heal, Self-rejuvenate, Self-aware Assessments
 
     - Mind and Thought Cleansing
 
-    - Routine Checks
+    - Routine Health Checks
 
     - Thought Pattern Analysis
+
+BENEFITS
 
 -   Engage your individual lunar power
 
