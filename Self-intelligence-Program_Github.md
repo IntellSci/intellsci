@@ -135,6 +135,21 @@ BENEFITS
 
 ### DIVINE INTELLIGENCE
 
+ - DATA SCIENCE 
+ - SPIRITUAL SCIENCE 
+ - YOGIC SCIENCE
+ - PSYCHOLOGICAL SCIENCE 
+ - COGNITIVE SCIENCE 
+ - NEURO SCIENCE – Computational Neuroscience of Abuse: Cognitive, Computational, Molecular, Cellular, Social, Behavioural, Religion, Clinical, Cultural, Developmental
+ - SOCIAL SCIENCE – Economics, Finance, Environment (Geography), History, Legal, Political 
+ - QUANTUM SCIENCE – Quantum Mechanics, Quantum Biology, Quantum Statistics 
+ - MOLECULAR SCIENCE 
+ - GENETIC SCIENCE 
+ - DIET SCIENCE 
+ - ENERGY (Self-healing) SCIENCE – Reiki, Pranic Healing, Touch Therapy, Affirmation, Mudras, Religious Practices, AAUSH (Allopathy, Ayurveda, Unani, Siddha, Homeopathy)
+ - KARMIC SCIENCE 
+
+## ADDITIONAL REFERENCES
 -   Book
 -   YouTube videos
 -   Podcast
