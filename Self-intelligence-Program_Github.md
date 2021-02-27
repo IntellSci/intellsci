@@ -1,59 +1,39 @@
 # SELF-INTELLIGENCE PROGRAMS
 
 
-### BEYOND SCHOOL
+### "BEYOND SCHOOL"
 
   -   Skill Intelligence
-
   -   Divine Intelligence
-
   -   Scientific Intelligence
 
-
   -   Social Life Skills
-
   -   Self-Grooming Skills
 
-
   -   Goal Designing
-
   -   Career Framing
-
   -   Purpose Definition
 
   -   Capability Enhancement
-
-
   -   Assessments:
            Intelligence, Learning Style, Personality, Need Analysis
-
   -   Routine Checks:
            Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
            
-
   -   Aspiration (Role/Goal based) Videos
-
   -   Motivation (Intention based) Videos
-
   -   Educative and Informative Videos
 
-### BEING YOU
+## "BEING YOU"
 
   Content based on Ancient Scriptures on Philosophy of Life
 
-    AGENDA
-    
   - Targeted Thought-Energy Therapy
-
   - Self-assess, Self-heal, Self-rejuvenate, Self-aware Assessments
-
   - Mind and Thought Cleansing
-  
   - Thought Pattern Analysis
-
   - Assessments: 
       Intelligence, Learning Style, Personality, Need Analysis
-
   - Routine Checks: 
       Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
@@ -74,9 +54,9 @@
 -   Resolve your hidden trauma and fear
 -   Break your barriers of abuse
 
-### SKILL INTELLIGENCE
+## SKILL INTELLIGENCE
 
-#### Daily Data Science Boot Camp
+### Daily Data Science Boot Camp
 
       - Related to an aspect of daily life
       - Projects to address real life requirements
@@ -89,7 +69,7 @@
       - Commercialization of project results
       - No bar on age, gender, qualification, role 
 
-#### Internship Projects
+### Internship Projects
 
     - Goal Designing
     - Career Mapping
@@ -110,7 +90,7 @@
     -   Commercialization of project results
     -   No bar on age, gender, qualification, role 
 
-### SCIENTIFIC INTELLIGENCE
+## SCIENTIFIC INTELLIGENCE
 
    - Artificial Intelligence for All - AIFA
 
