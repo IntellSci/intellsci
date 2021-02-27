@@ -16,26 +16,24 @@ output:
 
 ## PROGRAMS ON SELF-INTELLIGENCE
 
-### BEING YOU
+### - BEING YOU
 
-### BEYOND SCHOOL
+### - BEYOND SCHOOL
 
-### SKILL INTELLIGENCE
+### - SKILL INTELLIGENCE
+#### - Daily Data Science Bootcamp
+#### - Internship Projects
 
-#### Daily Data Science Bootcamp
-#### Internship Projects
-
-### SCIENTIFIC INTELLIGENCE
-
-#### Artificial Intelligence for All - AIFA
-#### Artificial Intelligence for Mathematicians
-#### Mathematics for Social Sciences
-#### Engineering Analytics
-#### General Psychology for Developers
-#### Data Psychology for Developers
-#### Analytical Programming for All
-#### Automatic Programming for All
-#### Actuarial Sciences
+### - SCIENTIFIC INTELLIGENCE
+#### - Artificial Intelligence for All - AIFA
+#### - Artificial Intelligence for Mathematicians
+#### - Mathematics for Social Sciences
+#### - Engineering Analytics
+#### - General Psychology for Developers
+#### - Data Psychology for Developers
+#### - Analytical Programming for All
+#### - Automatic Programming for All
+#### - Actuarial Sciences
 
 ### DIVINE INTELLIGENCE
 
