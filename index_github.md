@@ -9,7 +9,7 @@ output:
 
 # All about the Website
 
-## SERVICES
+## [SERVICES](https://intellsci.github.io/intellsci/Services_Github.html)
 
 ### PROCESS AND QUALITY IMPROVEMENT - for Social and Commercial Purposes
 ### TARGETED THOUGHT-ENERGY THERAPY
