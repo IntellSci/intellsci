@@ -103,23 +103,23 @@
 
 ### SCIENTIFIC INTELLIGENCE
 
-#### - Artificial Intelligence for All - AIFA
+   - Artificial Intelligence for All - AIFA
 
-#### - Artificial Intelligence for Mathematicians
+   - Artificial Intelligence for Mathematicians
 
-#### - Mathematics for Social Sciences
+   - Mathematics for Social Sciences
 
-#### - Engineering Analytics
+   - Engineering Analytics
 
-#### - General Psychology for Developers
+   - General Psychology for Developers
 
-#### - Data Psychology for Developers
+   - Data Psychology for Developers
 
-#### - Analytical Programming for All
+   - Analytical Programming for All
 
-#### - Automatic Programming for All
+   - Automatic Programming for All
 
-#### - Actuarial Sciences
+   - Actuarial Sciences
 
 ### DIVINE INTELLIGENCE
 

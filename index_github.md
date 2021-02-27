@@ -11,30 +11,45 @@ output:
 
 ## [SERVICES](https://intellsci.github.io/intellsci/Services_Github.html)
 
-### PROCESS AND QUALITY IMPROVEMENT - for Social and Commercial Purposes
-### TARGETED THOUGHT-ENERGY THERAPY
+  - PROCESS AND QUALITY IMPROVEMENT 
+        for Social and Commercial Purposes
 
-## PROGRAMS ON SELF-INTELLIGENCE
+  - TARGETED THOUGHT-ENERGY THERAPY
 
-### - BEING YOU
+## [PROGRAMS ON SELF-INTELLIGENCE](https://intellsci.github.io/intellsci/Self-intelligence-Program_Github.html)
 
-### - BEYOND SCHOOL
+  - BEING YOU
 
-### - SKILL INTELLIGENCE
-#### - Daily Data Science Bootcamp
-#### - Internship Projects
+  - BEYOND SCHOOL
 
-### - SCIENTIFIC INTELLIGENCE
-#### - Artificial Intelligence for All - AIFA
-#### - Artificial Intelligence for Mathematicians
-#### - Mathematics for Social Sciences
-#### - Engineering Analytics
-#### - General Psychology for Developers
-#### - Data Psychology for Developers
-#### - Analytical Programming for All
-#### - Automatic Programming for All
-#### - Actuarial Sciences
+  - SKILL INTELLIGENCE
+        
+        - Daily Data Science Bootcamp
+      
+        - Internship Projects
 
-### DIVINE INTELLIGENCE
+  - SCIENTIFIC INTELLIGENCE
+          
+      - Artificial Intelligence for All - AIFA
+      
+      - Artificial Intelligence for Mathematicians
+      
+      - Mathematics for Social Sciences
+        
+      - Engineering Analytics
+        
+      - General Psychology for Developers
+        
+      - Data Psychology for Developers
+        
+      - Analytical Programming for All
+        
+      - Automatic Programming for All
+        
+      - Actuarial Sciences
+
+
+  - DIVINE INTELLIGENCE
+
 
 ## ADDITIONAL REFERENCES

@@ -2,7 +2,7 @@
 # SERVICES
 
 ## PROCESS AND QUALITY ANALYSIS AND IMPROVEMENT
-    (for social and commercial purposes)
+  (for social and commercial purposes)
 
 With large volumes of data available everywhere and fewer experts to
 study, analyze and interpret them in comprehendible manner is
