@@ -1,6 +1,5 @@
 # SELF-INTELLIGENCE PROGRAMS
 
-
 ### "BEYOND SCHOOL"
 
   -   Skill Intelligence
