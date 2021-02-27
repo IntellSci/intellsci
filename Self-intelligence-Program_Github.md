@@ -3,53 +3,62 @@
 
 ### BEYOND SCHOOL
 
-    -   Skill Intelligence
+  -   Skill Intelligence
 
-    -   Divine Intelligence
+  -   Divine Intelligence
 
-    -   Scientific Intelligence
+  -   Scientific Intelligence
 
-    -   Social Life Skills
 
-    -   Self-Grooming Skills
+  -   Social Life Skills
 
-    -   Aspiration (Role/Goal based) Videos
+  -   Self-Grooming Skills
 
-    -   Motivation (Intention based) Videos
 
-    -   Educative and Informative Videos
+  -   Goal Designing
 
-    -   Goal Designing
+  -   Career Framing
 
-    -   Career Mapping
+  -   Purpose Definition
 
-    -   Purpose Definition
+  -   Capability Enhancement
 
-    -   Capability Enhancement
 
-    -   Assessments:
+  -   Assessments:
            Intelligence, Learning Style, Personality, Need Analysis
 
-    -   Routine Checks:
+  -   Routine Checks:
            Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
+           
+
+  -   Aspiration (Role/Goal based) Videos
+
+  -   Motivation (Intention based) Videos
+
+  -   Educative and Informative Videos
 
 ### BEING YOU
 
-  - Content based on Ancient Scriptures on Philosophy of Life
+  Content based on Ancient Scriptures on Philosophy of Life
 
-  AGENDA
+    AGENDA
     
-    - TARGETED THOUGHT-ENERGY THERAPY
+  - Targeted Thought-Energy Therapy
 
-    - Self-assess, Self-heal, Self-rejuvenate, Self-aware Assessments
+  - Self-assess, Self-heal, Self-rejuvenate, Self-aware Assessments
 
-    - Mind and Thought Cleansing
+  - Mind and Thought Cleansing
+  
+  - Thought Pattern Analysis
 
-    - Routine Health Checks
+  - Assessments: 
+      Intelligence, Learning Style, Personality, Need Analysis
 
-    - Thought Pattern Analysis
+  - Routine Checks: 
+      Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
-  BENEFITS
+  
+    BENEFITS
 
 -   Engage your individual lunar power
 -   Identify the triggers of your hormonal imbalance
