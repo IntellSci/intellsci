@@ -34,16 +34,11 @@ If you would like to outsource the analytical job work to us email at:
 
 ## TARGETED THOUGHT-ENERGY THERAPY
 
-    Mind and Thought Cleansing
-
-    Thought Pattern Analysis
-
-    Goal-oriented Counseling
-
-    Capability Enhancement
-
-    Assessments: 
+   - Mind and Thought Cleansing
+   - Thought Pattern Analysis
+   - Goal-oriented Counseling
+   - Capability Enhancement
+   - Assessments: 
       Intelligence, Learning Style, Personality, Need Analysis
-
-    Routine Checks: 
+   - Routine Checks: 
       Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
