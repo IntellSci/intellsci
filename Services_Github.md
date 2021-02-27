@@ -1,24 +1,18 @@
----
-title: "Services"
-#author: "Hazel"
-#date: "2/27/2021"
-output:
- github_document:
-# toc: true
----
+
+# Services
 
 # SERVICES
 
-
 ### PROCESS AND QUALITY ANALYSIS AND IMPROVEMENT
-  (for social and commercial purposes)
+
+(for social and commercial purposes)
 
 With large volumes of data available everywhere and fewer experts to
 study, analyze and interpret them in comprehendible manner is
 challenging by itself. With great passion towards Statistics and
 knowledge in various industries like textiles, insurance, banking,
-education and health care, we strive to make market research and analysis
-simpler.
+education and health care, we strive to make market research and
+analysis simpler.
 
 This entrepreneurial freelancing approach coupled with commitment to
 client satisfaction, enables us to provide process improvement services
@@ -41,15 +35,13 @@ CONTACT US
 If you would like to outsource the analytical job work to us email at:
 <intellsciresearch@gmail.com>
 
-
-
 ## TARGETED THOUGHT-ENERGY THERAPY
 
-   - Mind and Thought Cleansing
-   - Thought Pattern Analysis
-   - Goal-oriented Counseling
-   - Capability Enhancement
-   - Assessments: 
-      Intelligence, Learning Style, Personality, Need Analysis
-   - Routine Checks: 
-      Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
+-   Mind and Thought Cleansing
+-   Thought Pattern Analysis
+-   Goal-oriented Counseling
+-   Capability Enhancement
+-   Assessments: Intelligence, Learning Style, Personality, Need
+    Analysis
+-   Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy,
+    Moral Behaviour
