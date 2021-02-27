@@ -1,14 +1,15 @@
 
 # SERVICES
 
-## PROCESS AND QUALITY ANALYSIS AND IMPROVEMENT
+
+### PROCESS AND QUALITY ANALYSIS AND IMPROVEMENT
   (for social and commercial purposes)
 
 With large volumes of data available everywhere and fewer experts to
 study, analyze and interpret them in comprehendible manner is
 challenging by itself. With great passion towards Statistics and
 knowledge in various industries like textiles, insurance, banking,
-education and healthcare, we strive to make market research and analysis
+education and health care, we strive to make market research and analysis
 simpler.
 
 This entrepreneurial freelancing approach coupled with commitment to
@@ -31,6 +32,8 @@ CONTACT US
 
 If you would like to outsource the analytical job work to us email at:
 <intellsciresearch@gmail.com>
+
+
 
 ## TARGETED THOUGHT-ENERGY THERAPY
 

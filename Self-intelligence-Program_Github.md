@@ -23,6 +23,8 @@
   -   Motivation (Intention based) Videos
   -   Educative and Informative Videos
 
+
+
 ## "BEING YOU"
 
   Content based on Ancient Scriptures on Philosophy of Life
@@ -53,6 +55,8 @@
 -   Resolve your hidden trauma and fear
 -   Break your barriers of abuse
 
+
+
 ## SKILL INTELLIGENCE
 
 ### Daily Data Science Boot Camp
@@ -67,6 +71,7 @@
       - Bottom-up approach of role assignment
       - Commercialization of project results
       - No bar on age, gender, qualification, role 
+
 
 ### Internship Projects
 
@@ -89,6 +94,8 @@
     -   Commercialization of project results
     -   No bar on age, gender, qualification, role 
 
+
+
 ## SCIENTIFIC INTELLIGENCE
 
    - Artificial Intelligence for All - AIFA
@@ -109,6 +116,8 @@
 
    - Actuarial Sciences
 
+
+
 ## DIVINE INTELLIGENCE
 
  - DATA SCIENCE 
@@ -124,6 +133,8 @@
  - DIET SCIENCE 
  - ENERGY (Self-healing) SCIENCE – Reiki, Pranic Healing, Touch Therapy, Affirmation, Mudras, Religious Practices, AAUSH (Allopathy, Ayurveda, Unani, Siddha, Homeopathy)
  - KARMIC SCIENCE 
+
+
 
 ## ADDITIONAL REFERENCES
 -   Book
