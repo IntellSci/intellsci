@@ -24,9 +24,9 @@ output:
 
   - SKILL INTELLIGENCE
         
-        - Daily Data Science Bootcamp
-      
-        - Internship Projects
+      - Daily Data Science Bootcamp
+    
+      - Internship Projects
 
   - SCIENTIFIC INTELLIGENCE
           
