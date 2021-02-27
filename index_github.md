@@ -4,7 +4,7 @@
 #date: "2/27/2021"
 output:
  github_document:
- toc: true
+# toc: true
 ---
 
 # All about the Website
