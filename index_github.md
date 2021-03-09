@@ -20,7 +20,7 @@ output:
 
   - BEING YOU
 
-  - BEYOND SCHOOL
+  - SKILL SCHOOL
 
   - SKILL INTELLIGENCE
         
