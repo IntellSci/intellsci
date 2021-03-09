@@ -14,24 +14,32 @@
   -	Purpose Defining
 
 - Skill Enhancement
-  •	Capability Enhancement
-    - Focus and Concentration, Intention and Manifestation, Ideation and Execution, Conceptualization and Implementation, Empathy and Generosity, Patience and Humility
-•	Individuality Assessments: 
+  - Capability Enhancement
+      - Focus and Concentration
+      - Intention and Manifestation
+      - Ideation and Execution
+      - Conceptualization and Implementation 
+      - Empathy and Generosity
+      - Patience and Humility
+      
+  -	Individuality Assessments: 
     -	Intelligence, Learning Style, Personality
-•	Emotionality Assessments: 
+    
+  -	Emotionality Assessments
     - Need Analysis
-•	Routine Life Checks: 
+    
+  -	Routine Life Checks
     - Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
 - Intelligence
-•	Divine Intelligence
-•	Skill Intelligence
-•	Scientific Intelligence
+  - Divine Intelligence
+  - Skill Intelligence
+  - Scientific Intelligence
 
 - Inspiration
-•	Aspiration (Role/Goal based) Videos
-•	Motivation (Intention based) Videos
-•	Educative and Informative Videos
+  - Aspiration (Role/Goal based) Videos
+  - Motivation (Intention based) Videos
+  - Educative and Informative Videos
    
 
 ## “BEING YOU”
