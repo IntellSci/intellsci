@@ -1,61 +1,85 @@
+INTELLSCI RESEARCH ORGANIZATION
+================
+
 # SELF-INTELLIGENCE PROGRAMS
 
-### "BEYOND SCHOOL"
+### “BEYOND SCHOOL”
 
-  -   Skill Intelligence
-  -   Divine Intelligence
-  -   Scientific Intelligence
+-   Skill Intelligence
 
-  -   Social Life Skills
-  -   Self-Grooming Skills
+-   Divine Intelligence
 
-  -   Goal Designing
-  -   Career Framing
-  -   Purpose Definition
+-   Scientific Intelligence
 
-  -   Capability Enhancement
-  -   Assessments:
-           Intelligence, Learning Style, Personality, Need Analysis
-  -   Routine Checks:
-           Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
-           
-  -   Aspiration (Role/Goal based) Videos
-  -   Motivation (Intention based) Videos
-  -   Educative and Informative Videos
+-   Social Life Skills
 
+-   Self-Grooming Skills
 
+-   Goal Designing
 
-## "BEING YOU"
+-   Career Framing
 
-  Content based on Ancient Scriptures on Philosophy of Life
+-   Purpose Definition
 
-  - Targeted Thought-Energy Therapy
-  - Self-assess, Self-heal, Self-rejuvenate, Self-aware Assessments
-  - Mind and Thought Cleansing
-  - Thought Pattern Analysis
-  - Assessments: 
-      Intelligence, Learning Style, Personality, Need Analysis
-  - Routine Checks: 
-      Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
+-   Capability Enhancement
 
-  
+-   Assessments: Intelligence, Learning Style, Personality, Need
+    Analysis
+
+-   Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy,
+    Moral Behaviour
+
+-   Aspiration (Role/Goal based) Videos
+
+-   Motivation (Intention based) Videos
+
+-   Educative and Informative Videos
+
+## “BEING YOU”
+
+Content based on Ancient Scriptures on Philosophy of Life
+
+-   Targeted Thought-Energy Therapy
+
+-   Self-assess, Self-heal, Self-rejuvenate, Self-aware Assessments
+
+-   Mind and Thought Cleansing
+
+-   Thought Pattern Analysis
+
+-   Assessments: Intelligence, Learning Style, Personality, Need
+    Analysis
+
+-   Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy,
+    Moral Behaviour
+
     BENEFITS
 
 -   Engage your individual lunar power
+
 -   Identify the triggers of your hormonal imbalance
+
 -   Learn the right lesson from your pain (physical and emotional)
+
 -   Heal the root of your dis-comfort or dis-ease
+
 -   Rectify the triggers of your dis-comfort
+
 -   Prevent the physical manifestation of your hereditary complaints
+
 -   Realize your individual emotional balance
+
 -   Match the YAMAS and NIYAMAS in your living
+
 -   Raise your inner vibrational frequency and vital energy
+
 -   Match your career goal with your true personality and intelligence
+
 -   Study your Thought Energy Pattern
+
 -   Resolve your hidden trauma and fear
+
 -   Break your barriers of abuse
-
-
 
 ## SKILL INTELLIGENCE
 
@@ -71,7 +95,6 @@
       - Bottom-up approach of role assignment
       - Commercialization of project results
       - No bar on age, gender, qualification, role 
-
 
 ### Internship Projects
 
@@ -94,49 +117,50 @@
     -   Commercialization of project results
     -   No bar on age, gender, qualification, role 
 
-
-
 ## SCIENTIFIC INTELLIGENCE
 
-   - Artificial Intelligence for All - AIFA
+-   Artificial Intelligence for All - AIFA
 
-   - Artificial Intelligence for Mathematicians
+-   Artificial Intelligence for Mathematicians
 
-   - Mathematics for Social Sciences
+-   Mathematics for Social Sciences
 
-   - Engineering Analytics
+-   Engineering Analytics
 
-   - General Psychology for Developers
+-   General Psychology for Developers
 
-   - Data Psychology for Developers
+-   Data Psychology for Developers
 
-   - Analytical Programming for All
+-   Analytical Programming for All
 
-   - Automatic Programming for All
+-   Automatic Programming for All
 
-   - Actuarial Sciences
-
-
+-   Actuarial Sciences
 
 ## DIVINE INTELLIGENCE
 
- - DATA SCIENCE 
- - SPIRITUAL SCIENCE 
- - YOGIC SCIENCE
- - PSYCHOLOGICAL SCIENCE 
- - COGNITIVE SCIENCE 
- - NEURO SCIENCE – Computational Neuroscience of Abuse: Cognitive, Computational, Molecular, Cellular, Social, Behavioural, Religion, Clinical, Cultural, Developmental
- - SOCIAL SCIENCE – Economics, Finance, Environment (Geography), History, Legal, Political 
- - QUANTUM SCIENCE – Quantum Mechanics, Quantum Biology, Quantum Statistics 
- - MOLECULAR SCIENCE 
- - GENETIC SCIENCE 
- - DIET SCIENCE 
- - ENERGY (Self-healing) SCIENCE – Reiki, Pranic Healing, Touch Therapy, Affirmation, Mudras, Religious Practices, AAUSH (Allopathy, Ayurveda, Unani, Siddha, Homeopathy)
- - KARMIC SCIENCE 
-
-
+-   DATA SCIENCE
+-   SPIRITUAL SCIENCE
+-   YOGIC SCIENCE
+-   PSYCHOLOGICAL SCIENCE
+-   COGNITIVE SCIENCE
+-   NEURO SCIENCE – Computational Neuroscience of Abuse: Cognitive,
+    Computational, Molecular, Cellular, Social, Behavioural, Religion,
+    Clinical, Cultural, Developmental
+-   SOCIAL SCIENCE – Economics, Finance, Environment (Geography),
+    History, Legal, Political
+-   QUANTUM SCIENCE – Quantum Mechanics, Quantum Biology, Quantum
+    Statistics
+-   MOLECULAR SCIENCE
+-   GENETIC SCIENCE
+-   DIET SCIENCE
+-   ENERGY (Self-healing) SCIENCE – Reiki, Pranic Healing, Touch
+    Therapy, Affirmation, Mudras, Religious Practices, AAUSH (Allopathy,
+    Ayurveda, Unani, Siddha, Homeopathy)
+-   KARMIC SCIENCE
 
 ## ADDITIONAL REFERENCES
+
 -   Book
 -   YouTube videos
 -   Podcast

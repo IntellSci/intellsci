@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/731643/ee2b5eb7072e4601a574678910aa4ee0
+bundleId: https://api.rpubs.com/api/v1/document/731643/ee2b5eb7072e4601a574678910aa4ee0
+url: http://rpubs.com/IntellSci/731643
+when: 1614405575.97281

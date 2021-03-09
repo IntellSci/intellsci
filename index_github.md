@@ -1,5 +1,5 @@
 ---
-#title: "Services"
+#title: "INTELLSCI RESEARCH ORGANIZATION"
 #author: "Hazel"
 #date: "2/27/2021"
 output:
