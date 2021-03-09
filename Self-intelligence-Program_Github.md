@@ -9,10 +9,9 @@
     - Biological Life Skills
 
 - Skill Identification
-
-•	Goal Designing
-•	Career Framing
-•	Purpose Defining
+  - Goal Designing
+  -	Career Framing
+  -	Purpose Defining
 
 - Skill Enhancement
   •	Capability Enhancement
