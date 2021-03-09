@@ -3,37 +3,39 @@ INTELLSCI RESEARCH ORGANIZATION
 
 # SELF-INTELLIGENCE PROGRAMS
 
-### “BEYOND SCHOOL”
+### “SKILL SCHOOL”
 
--   Skill Intelligence
+-   Life Skills
+•	Social Life Skills
+•	Self-Grooming Skills
+•	Biological Life Skills
 
--   Divine Intelligence
+- Skill Identification
 
--   Scientific Intelligence
+•	Goal Designing
+•	Career Framing
+•	Purpose Defining
 
--   Social Life Skills
+- Skill Enhancement
+•	Capability Enhancement
+    - Focus and Concentration, Intention and Manifestation, Ideation and Execution, Conceptualization and Implementation, Empathy and Generosity, Patience and Humility
+•	Individuality Assessments: 
+    -	Intelligence, Learning Style, Personality
+•	Emotionality Assessments: 
+    - Need Analysis
+•	Routine Life Checks: 
+    - Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
--   Self-Grooming Skills
+- Intelligence
+•	Divine Intelligence
+•	Skill Intelligence
+•	Scientific Intelligence
 
--   Goal Designing
-
--   Career Framing
-
--   Purpose Definition
-
--   Capability Enhancement
-
--   Assessments: Intelligence, Learning Style, Personality, Need
-    Analysis
-
--   Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy,
-    Moral Behaviour
-
--   Aspiration (Role/Goal based) Videos
-
--   Motivation (Intention based) Videos
-
--   Educative and Informative Videos
+- Inspiration
+•	Aspiration (Role/Goal based) Videos
+•	Motivation (Intention based) Videos
+•	Educative and Informative Videos
+   
 
 ## “BEING YOU”
 
@@ -99,8 +101,8 @@ Content based on Ancient Scriptures on Philosophy of Life
 ### Internship Projects
 
     - Goal Designing
-    - Career Mapping
-    - Purpose Definition
+    - Career Framing
+    - Purpose Defining
     - Capability Enhancement:
       - Focus and Concentration
       - Intention and Manifestation
