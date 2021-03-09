@@ -1,14 +1,12 @@
-INTELLSCI RESEARCH ORGANIZATION
-================
 
 # SELF-INTELLIGENCE PROGRAMS
 
 ### “SKILL SCHOOL”
 
 -   Life Skills
-•	Social Life Skills
-•	Self-Grooming Skills
-•	Biological Life Skills
+    - Social Life Skills
+    - Self-Grooming Skills
+    - Biological Life Skills
 
 - Skill Identification
 
@@ -17,7 +15,7 @@ INTELLSCI RESEARCH ORGANIZATION
 •	Purpose Defining
 
 - Skill Enhancement
-•	Capability Enhancement
+  •	Capability Enhancement
     - Focus and Concentration, Intention and Manifestation, Ideation and Execution, Conceptualization and Implementation, Empathy and Generosity, Patience and Humility
 •	Individuality Assessments: 
     -	Intelligence, Learning Style, Personality
