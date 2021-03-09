@@ -18,9 +18,9 @@ output:
 
 ## [PROGRAMS ON SELF-INTELLIGENCE](https://intellsci.github.io/intellsci/Self-intelligence-Program_Github.html)
 
-  - BEING YOU
-
   - SKILL SCHOOL
+  
+  - BEING YOU
 
   - SKILL INTELLIGENCE
         
