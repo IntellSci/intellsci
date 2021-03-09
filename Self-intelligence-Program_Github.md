@@ -23,13 +23,13 @@
       - Patience and Humility
       
   -	Individuality Assessments: 
-    -	Intelligence, Learning Style, Personality
+      -	Intelligence, Learning Style, Personality
     
   -	Emotionality Assessments
-    - Need Analysis
+      - Need Analysis
     
   -	Routine Life Checks
-    - Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
+      - Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
 - Intelligence
   - Divine Intelligence
